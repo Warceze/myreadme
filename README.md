@@ -8,23 +8,16 @@ I focus on comprehensive problem-solving and achieving project goals, while main
 
 ### 🛠 Skills
 
-**Languages & Core**
 * **Kotlin** & **Java**
 * **TypeScript**
 * **Coroutines** & **Flow**
 * **XML** & **Jetpack Compose**
 * **React Native** & **Expo**
-
-**Architecture & DI**
 * **MVVM**
 * **Dagger 2** & **Hilt**
-
-**Networking & Database**
 * **Retrofit** & **Axios**
 * **REST API** & **HMAC-SHA256**
 * **Room** & **SQLite**
-
-**Tools & Mobile Ecosystem**
 * **Git** & **GitLab CI** / **GitHub Actions**
 * **Google Firebase** (FCM)
 * **Google Play Console** & **AppStore Connect**
@@ -77,8 +70,3 @@ I focus on comprehensive problem-solving and achieving project goals, while main
 * **LinkedIn:** [linkedin.com/in/kvardanyan](https://linkedin.com/in/kvardanyan)
 * **GitHub:** [Warceze](https://github.com/Warceze)
 * **Telegram:** [@Warceze](https://t.me/Warceze)
-
----
-### 📊 GitHub Stats
-![Karapet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warceze&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warceze&layout=compact&theme=radical)
